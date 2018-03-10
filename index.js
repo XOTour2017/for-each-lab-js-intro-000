@@ -5,5 +5,5 @@ function iterativeLog(array) {
 )}
 
 function iterate(callback) {
-  
+
 }
